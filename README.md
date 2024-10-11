@@ -2,6 +2,16 @@
 
 This project is made, contributed, and maintained by "Lambda Robotics" Team for Science & Technology Idea Contest of King Mongkut's University of Technology Thonburi Open House Event 2024
 
+## Photos from King Mongkut's University of Technology Open House Event 2024
+
+![The presentation](images/Presentation1.JPG)
+![The presentation, starring Supakorn Huemwang (Han Senni)](images/Presentation2.JPG)
+![The presentation, starring Gristapak Wiwattana (Gristapak) and Sila Chailek (VoidDwellor)](images/Presentation3.JPG)
+
+## The flowchart summarizing the operation of prosthetic arm
+
+![Flowchart](images/Flowchart.JPG)
+
 ## The project needed these minimum equipments
 - Arduino Mega
 - CNC Shield v3
