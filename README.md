@@ -27,4 +27,4 @@ This project is made, contributed, and maintained by "Lambda Robotics" Team for 
 All the contributers are from Chonradsadornumrung School, with these following contributers
 - Gristapak Wiwattana [Github (Gristapak)](https://github.com/Gristapak)
 - Sila Chailek [Github (VoidDwellor)](https://github.com/VoidDwellor)
-- Supakorn Huemwamg (Han Senni) [Github (senni-han)](https://github.com/senni-han) [Personal website](https://senni-han.github.io)
+- Supakorn Huemwamg [Github (senni-huenwang)](https://github.com/senni-huemwang) [Personal website](https://senni-huemwang.github.io)
